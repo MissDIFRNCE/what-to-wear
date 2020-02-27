@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+
+<!-- Marieke de Hoop / 30-8-19 -->
+
+<html lang="nl">
+
+<head>
+	<meta charset="UTF-8">
+	<title>What to wear</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="style/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Chilanka&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Karla:400,700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+	<h1>What to wear</h1>
+
+	<main>
+		<aside>
+<!-- 		<div>
+				<p>Seizoen:</p>
+				<div id="seizoenen">
+					<button class="seizoen-knop" id="lente">Lente</button>
+					<button class="seizoen-knop" id="zomer">Zomer</button>
+					<button class="seizoen-knop" id="herfst">Hefst</button>
+					<button class="seizoen-knop" id="winter">Winter</button>
+				</div>
+			</div>
+ -->			
+
+			<div id="temperatuur">
+				<!-- <p>Verwachtte temperatuur:</p>
+				<input id="temperatuur-veld" type="text" name="temperatuur" placeholder="℃"> -->
+				<label>Kies temperatuur</label>
+				<select id="temperatuur-selectie">
+					<option value=0>Kies temperatuur</option>
+					<option value=1>Kouder</option>
+					<option value=2>5℃</option>
+					<option value=3>10℃</option>
+					<option value=4>15℃</option>
+					<option value=5>20℃</option>
+					<option value=6>Warmer</option>
+				</select>
+			</div>
+
+			<div id="comfort">
+				<!-- <p>Comfort niveau:</p>
+				<input id="comfort-meter" type="range" min="1" max="100" value=""> -->
+				<label>Hoe comfortabel wil je het hebben?</label>
+				<select id="comfort-selectie">
+					<option value=0>Kies niveau</option>
+					<option value=1>Comfort maakt me niet uit</option>
+					<option value=2>Een beetje mag</option>
+					<option value=3>Gewoon chill</option>
+					<option value=4>Zo comfortabel mogelijk</option>
+				</select>
+			</div>
+
+<!-- 			<div id="uitsluiten">
+				<p>Uitsluiten:</p>
+				<select id="uitsluit-selectie" name="kledingstuk" multiple="multiple" size="5">
+					<option value="dress">Jurken</option>
+					<option value="skirt">Rokjes</option>
+					<option value="shirt">Overhemden</option>
+					<option value="jeans">Spijkerbroeken</option>
+					<option value="sweater">Truien</option>
+				</select>
+			</div> -->
+
+			<div id="start-zoektocht">
+				<button id="start">Zoek mijn outfit!</button>
+			</div>
+		</aside>
+
+		<aside id="na-filteren" style="display: none;">
+			<div id="accesoires">
+				<p>Probeer dit bij je outfit:</p>
+				<div id="accesoire-items">
+					<img src="images/accesoires/tasje.png">
+					<img src="images/accesoires/schoenen.png">
+					<img src="images/accesoires/riem.png">
+				</div>
+			</div>
+
+			<div id="wijzigen">
+				<p>Probeer het nog eens</p>
+				<button>Top overnieuw</button>
+				<button>Onder overnieuw</button>
+			</div>
+		</aside>
+
+		<section id="outfit">
+			<div id="top-en-bottom">
+				<div id="top-div">
+					<img id="top" src="images/kleding/tshirt-unknown.png">
+				</div>
+				<div id="bottom-div">
+					<img id="bottom" src="images/kleding/pants-unknown.png">
+				</div>
+			</div>
+			<div id="information">
+				<p>T-shirt</p>
+				<p>Spijkerbroek</p>
+			</div>
+		</section>
+	</main>
+	
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+	<script src="js/script.js"></script>
+</body>
+
+</html>

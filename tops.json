@@ -1,0 +1,145 @@
+[{
+	"id": 1,
+	"type": "hoodie",
+	"temperature": 1,
+	"comfort": 1,
+	"img": "hoodie1.png"
+}, {
+	"id": 2,
+	"type": "hoodie",
+	"temperature": 1,
+	"comfort": 2,
+	"img": "hoodie1.png"
+}, {
+	"id": 3,
+	"type": "hoodie",
+	"temperature": 1,
+	"comfort": 3,
+	"img": "hoodie1.png"
+}, {
+	"id": 4,
+	"type": "hoodie",
+	"temperature": 1,
+	"comfort": 4,
+	"img": "hoodie1.png"
+}, {
+	"id": 5,
+	"type": "sweater",
+	"temperature": 2,
+	"comfort": 1,
+	"img": "sweater1.png"
+}, {
+	"id": 6,
+	"type": "sweater",
+	"temperature": 2,
+	"comfort": 2,
+	"img": "sweater1.png"
+}, {
+	"id": 7,
+	"type": "sweater",
+	"temperature": 2,
+	"comfort": 3,
+	"img": "sweater1.png"
+}, {
+	"id": 8,
+	"type": "sweater",
+	"temperature": 2,
+	"comfort": 4,
+	"img": "sweater1.png"
+}, {
+	"id": 9,
+	"type": "longsleeve",
+	"temperature": 3,
+	"comfort": 1,
+	"img": "teels1.png"
+}, {
+	"id": 10,
+	"type": "longsleeve",
+	"temperature": 3,
+	"comfort": 2,
+	"img": "teels1.png"
+}, {
+	"id": 11,
+	"type": "longsleeve",
+	"temperature": 3,
+	"comfort": 3,
+	"img": "teels1.png"
+}, {
+	"id": 12,
+	"type": "longsleeve",
+	"temperature": 3,
+	"comfort": 4,
+	"img": "teels1.png"
+}, {
+	"id": 13,
+	"type": "t-shirt",
+	"temperature": 4,
+	"comfort": 1,
+	"img": "tee1.png"
+}, {
+	"id": 14,
+	"type": "t-shirt",
+	"temperature": 4,
+	"comfort": 2,
+	"img": "tee2.png"
+}, {
+	"id": 15,
+	"type": "t-shirt",
+	"temperature": 4,
+	"comfort": 3,
+	"img": "tee3.png"
+}, {
+	"id": 16,
+	"type": "t-shirt",
+	"temperature": 4,
+	"comfort": 4,
+	"img": "tee3.png"
+}, {
+	"id": 17,
+	"type": "croptop",
+	"temperature": 5,
+	"comfort": 1,
+	"img": "croptop1.png"
+}, {
+	"id": 18,
+	"type": "croptop",
+	"temperature": 5,
+	"comfort": 2,
+	"img": "croptop1.png"
+}, {
+	"id": 19,
+	"type": "croptop",
+	"temperature": 5,
+	"comfort": 3,
+	"img": "croptop1.png"
+}, {
+	"id": 20,
+	"type": "croptop",
+	"temperature": 5,
+	"comfort": 4,
+	"img": "croptop1.png"
+}, {
+	"id": 21,
+	"type": "camisole",
+	"temperature": 6,
+	"comfort": 1,
+	"img": "camisole1.png"
+}, {
+	"id": 22,
+	"type": "camisole",
+	"temperature": 6,
+	"comfort": 2,
+	"img": "camisole1.png"
+}, {
+	"id": 23,
+	"type": "camisole",
+	"temperature": 6,
+	"comfort": 3,
+	"img": "camisole1.png"
+}, {
+	"id": 24,
+	"type": "camisole",
+	"temperature": 6,
+	"comfort": 4,
+	"img": "camisole1.png"
+}]

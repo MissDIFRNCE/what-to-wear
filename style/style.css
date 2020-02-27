@@ -1,0 +1,209 @@
+/* Marieke de Hoop / 30-8-19 */
+
+/* Algemeen */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-image: url(../images/marble-background-2.jpg);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+main {
+	width: 90%;
+	height: 85vh;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+h1 {
+	text-align: center;
+	margin: 1em;
+	font-family: 'Chilanka', cursive;
+}
+
+p, label {
+	font-family: 'Karla', sans-serif;
+	font-weight: bold;
+}
+
+button {
+	border: none;
+}
+
+aside {
+	width: 35%;
+	padding: 1em;
+	background-color: rgba(0,0,0,0.2);
+	/*display: flex;*/
+	justify-content: space-around;
+	flex-direction: column;
+	border-radius: 5px;
+	box-shadow: -2px 2px rgba(0,0,0,0.3);
+}
+
+/* Linkerkolom - filteropties */
+#seizoenen {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.seizoen-knop {
+	width: 48%;
+	height: 50px;
+	font-size: 16px;
+	font-weight: bold;
+	margin: 3px;
+}
+
+#winter {
+	background-image: url(https://images.pexels.com/photos/60561/winter-snow-nature-60561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=160&w=240);
+	background-position: center;
+	background-size: cover;
+}
+#lente {
+	background-image: url(https://images.pexels.com/photos/2099737/pexels-photo-2099737.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=160&w=240);
+	background-position: center;
+	background-size: cover;
+}
+#zomer {
+	background-image: url(https://images.pexels.com/photos/459522/pexels-photo-459522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=160&w=240);
+	background-position: center;
+	background-size: cover;
+}
+#herfst {
+	background-image: url(https://images.pexels.com/photos/756903/pexels-photo-756903.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=160&w=240);
+	background-position: center;
+	background-size: cover;
+}
+
+#temperatuur {
+	margin: 1.5em 0; 
+	display: flex;
+	flex-direction: column;
+	width: fit-content;
+}
+
+#comfort {
+	margin: 1.5em 0;
+}
+
+#comfort > input {
+	width: 100%;
+}
+
+#uitsluiten {
+	margin: 1.5em 0;
+}
+
+#uitsluiten > select {
+	width: 100%;
+}
+
+#start-zoektocht > button {
+	width: 100%;
+    max-width: 15em;
+	height: 50px;
+	font-size: 20px;
+	background-image: linear-gradient(#ffb5c2,#bb7777);
+	box-shadow: 0 0 5px #8c8c8c;
+	border-radius: 5px;
+	color: white;
+}
+
+/* Linkerkolom - na filteren */
+#accesoires {
+	border-bottom: 1px solid black;
+	margin-bottom: 2em;
+}
+
+
+#accesoire-items {
+	display: flex;
+	flex-direction: row;
+}
+
+#accesoire-items > img {
+	width: 100px;
+}
+
+#wijzigen > button {
+	width: 100%;
+	height: 50px;
+	font-size: 20px;
+	background-color: pink;
+	margin-bottom: 4px;
+}
+
+
+/* Rechterkolom - outfit */
+#outfit {
+	height: 100%;
+	width: 60%;
+	background-color: rgba(0,0,0,0.2);
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	border-radius: 5px;
+	box-shadow: -2px 2px rgba(0,0,0,0.3);
+}
+
+#top-en-bottom {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
+
+#top-en-bottom > div {
+	display: flex;
+	justify-content: center;
+}
+
+#top-div {
+	width: 300px;
+	height: 200px;
+}
+
+#bottom-div {
+	width: 300px;
+	height: 330px;
+}
+
+#top {
+	max-width: 100%;
+	max-height: 100%;
+}
+#bottom {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+#information {
+	width: 50%;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	flex-direction: column;
+	padding-top: 6em;
+}
+
+#information > p {
+	padding-bottom: 2em;
+}
+
+
+
+
+
+
+

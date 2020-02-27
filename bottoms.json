@@ -1,0 +1,145 @@
+[{
+	"id": 1,
+	"type": "jeans",
+	"temperature": 1,
+	"comfort": 1,
+	"img": "pants1.png"
+}, {
+	"id": 2,
+	"type": "jeans",
+	"temperature": 1,
+	"comfort": 2,
+	"img": "pants2.png"
+}, {
+	"id": 3,
+	"type": "jeans",
+	"temperature": 1,
+	"comfort": 3,
+	"img": "pants1.png"
+}, {
+	"id": 4,
+	"type": "jeans",
+	"temperature": 1,
+	"comfort": 4,
+	"img": "pants2.png"
+}, {
+	"id": 5,
+	"type": "jeans",
+	"temperature": 2,
+	"comfort": 1,
+	"img": "pants1.png"
+}, {
+	"id": 6,
+	"type": "jeans",
+	"temperature": 2,
+	"comfort": 2,
+	"img": "pants2.png"
+}, {
+	"id": 7,
+	"type": "jeans",
+	"temperature": 2,
+	"comfort": 3,
+	"img": "pants1.png"
+}, {
+	"id": 8,
+	"type": "jeans",
+	"temperature": 2,
+	"comfort": 4,
+	"img": "pants2.png"
+}, {
+	"id": 9,
+	"type": "jeans",
+	"temperature": 3,
+	"comfort": 1,
+	"img": "pants1.png"
+}, {
+	"id": 10,
+	"type": "jeans",
+	"temperature": 3,
+	"comfort": 2,
+	"img": "pants2.png"
+}, {
+	"id": 11,
+	"type": "jeans",
+	"temperature": 3,
+	"comfort": 3,
+	"img": "pants1.png"
+}, {
+	"id": 12,
+	"type": "jeans",
+	"temperature": 3,
+	"comfort": 4,
+	"img": "pants1.png"
+}, {
+	"id": 13,
+	"type": "skirt",
+	"temperature": 4,
+	"comfort": 1,
+	"img": "skirt1.png"
+}, {
+	"id": 14,
+	"type": "skirt",
+	"temperature": 4,
+	"comfort": 2,
+	"img": "skirt1.png"
+}, {
+	"id": 15,
+	"type": "skirt",
+	"temperature": 4,
+	"comfort": 3,
+	"img": "skirt1.png"
+}, {
+	"id": 16,
+	"type": "skirt",
+	"temperature": 4,
+	"comfort": 4,
+	"img": "skirt1.png"
+}, {
+	"id": 17,
+	"type": "shorts",
+	"temperature": 5,
+	"comfort": 1,
+	"img": "shorts1.png"
+}, {
+	"id": 18,
+	"type": "shorts",
+	"temperature": 5,
+	"comfort": 2,
+	"img": "shorts2.png"
+}, {
+	"id": 19,
+	"type": "shorts",
+	"temperature": 5,
+	"comfort": 3,
+	"img": "shorts1.png"
+}, {
+	"id": 20,
+	"type": "shorts",
+	"temperature": 5,
+	"comfort": 4,
+	"img": "shorts2.png"
+}, {
+	"id": 21,
+	"type": "shorts",
+	"temperature": 6,
+	"comfort": 1,
+	"img": "shorts1.png"
+}, {
+	"id": 22,
+	"type": "shorts",
+	"temperature": 6,
+	"comfort": 2,
+	"img": "shorts2.png"
+}, {
+	"id": 23,
+	"type": "shorts",
+	"temperature": 6,
+	"comfort": 3,
+	"img": "shorts1.png"
+}, {
+	"id": 24,
+	"type": "shorts",
+	"temperature": 6,
+	"comfort": 4,
+	"img": "shorts2.png"
+}]
